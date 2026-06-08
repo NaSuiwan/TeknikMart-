@@ -1,0 +1,27 @@
+[
+    {
+        "id": 113,
+        "name": "AQUARIUM",
+        "price": 50000
+    },
+    {
+        "id": 125,
+        "name": "KALKULATOR",
+        "price": 100000
+    },
+    {
+        "id": 123,
+        "name": "Botol",
+        "price": 5000
+    },
+    {
+        "id": 120,
+        "name": "Tisu Kering",
+        "price": 3000
+    },
+    {
+        "id": 112,
+        "name": "Arduino Uno",
+        "price": 100000
+    }
+]
